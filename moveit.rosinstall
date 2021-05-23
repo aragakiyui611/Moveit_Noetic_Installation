@@ -1,0 +1,32 @@
+- git:
+    local-name: moveit_msgs
+    uri: https://hub.fastgit.org/ros-planning/moveit_msgs.git
+    version: master
+- git:
+    local-name: moveit_resources
+    uri: https://hub.fastgit.org/ros-planning/moveit_resources.git
+    version: master
+- git:
+    local-name: geometric_shapes
+    uri: https://hub.fastgit.org/ros-planning/geometric_shapes.git
+    version: noetic-devel
+- git:
+    local-name: moveit
+    uri: https://hub.fastgit.org/ros-planning/moveit.git
+    version: master
+- git:
+    local-name: rviz_visual_tools
+    uri: https://hub.fastgit.org/PickNikRobotics/rviz_visual_tools
+    version: master
+- git:
+    local-name: moveit_visual_tools
+    uri: https://hub.fastgit.org/ros-planning/moveit_visual_tools.git
+    version: master
+- git:
+    local-name: moveit_tutorials
+    uri: https://hub.fastgit.org/ros-planning/moveit_tutorials.git
+    version: master
+- git:
+    local-name: panda_moveit_config
+    uri: https://hub.fastgit.org/ros-planning/panda_moveit_config.git
+    version: melodic-devel
